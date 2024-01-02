@@ -1,4 +1,4 @@
-Hi 👋 My name is Deonte' Palmer
+👋 Hi! My name is Deonte' Palmer
 ===============================
 
 I am a Web & Software Developer
