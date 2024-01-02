@@ -1,4 +1,5 @@
 👋 Hi! My name is Deonte' Palmer
+[![wakatime](https://wakatime.com/badge/user/f207c778-e994-44b0-8be4-daa00f70b811.svg)](https://wakatime.com/@f207c778-e994-44b0-8be4-daa00f70b811)
 ===============================
 
 I am a Web & Software Developer
